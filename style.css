@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Kirang Haerang', cursive;
+}
+.menu{
+    list-style: none;
+    top: 5px;
+    right: 30px;
+}
